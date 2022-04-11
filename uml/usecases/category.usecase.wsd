@@ -1,0 +1,9 @@
+@startuml
+
+:Adim: -> (Criar categoria)
+:Adim: -> (Atualizar categoria)
+:Adim: -> (Excluir categoria)
+:Adim: -> (Consultar uma categoria)
+:Adim: -> (Consultar categorias)
+
+@enduml
